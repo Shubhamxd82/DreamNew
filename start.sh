@@ -8,5 +8,5 @@ else
 fi
 cd /RolexTG
 pip3 install -U -r requirements.txt
-echo "Bot Assembling"
+echo "Bot Assembling..."
 python3 bot.py
