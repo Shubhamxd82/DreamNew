@@ -144,7 +144,7 @@ Owner Will Update The Movie Within 24Hour"""
 ⊱⋅ ─────────────── ⋅⊰
 › Avatar ✅
 › Avatar 2009 720p ✅
-› Avatar 2009 720p Hindc
+› Avatar 2009 720p Tamil ✅
 
 › Don't Type Movie, Upload, Please, Symbol ❌
 """
@@ -153,8 +153,8 @@ Owner Will Update The Movie Within 24Hour"""
 ⚠ How To Request Series ⁉️ »
 ⊱⋅ ─────────────── ⋅⊰
 › Flash S01 ✅
-› Flash Hindi ✅
-› Flash S01E02 Hindi ✅
+› Flash Tamil ✅
+› Flash S01E02 Tamil ✅
 
 › Don't Type Movie, Upload, Please, Symbol ❌
 """
@@ -169,10 +169,10 @@ Owner Will Update The Movie Within 24Hour"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
-🎗<b>[{file_name}](https://t.me/+3cfeesNk_cg3MGQ9)</b>🎗 \n\n🔆 <i><b>Movies Group » [@HeavenOfMovies](https://t.me/+_HgfqNy7N4owNTI1)</i></b> \n🔆 <b><i>Series Group » [@HeavenOfSeries](https://t.me/+UbT__2jSGfgzMGM1)</b></i>"""
+🎗<b>[{file_name}](https://t.me/RolexMoviesOX)</b>🎗 \n\n🔆 <i><b>Main Channel » [Rolex Movies](https://t.me/RolexMoviesOX)</i></b> \n🔆 <b><i>Main Group » [Movie Group](https://t.me/+ZPpcbtCV204yYWU1)</b></i>"""
 
     IMDB_TEMPLATE_TXT = """
-<i><b>🎗️ {title} {year} \n━━━━━━━━━━━━━━━━━ \n🎭 Genre › {genres} \n⭐ Rating › {rating} \n•────────────────• \n🔆彡[ @TVSeriesCW ]彡🔆</b> </i>"""
+<b><i>💫 Title : <a href={url}>{title}</a>  ({year}) 🎭 Genres : {genres} 🌟 IMDB Rating: <a href={url}/ratings>{rating}</a> / 10   📌 [How To Download](https://t.me/RolexMoviesOX/55) </i></b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -200,4 +200,4 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰Tɪᴍᴇ : <code>{}</code>
-🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/TamilNadu</code></b>"""
