@@ -126,6 +126,7 @@ async def next_page(bot, query):
         else:
             btn.insert(0, 
                 [
+                    InlineKeyboardButton(f'Info 📮', 'reqinfo'),
                     InlineKeyboardButton(f'Movie 🎬', 'minfo'),
                     InlineKeyboardButton(f'Series 🎥', 'sinfo')
                 ]
@@ -147,6 +148,7 @@ async def next_page(bot, query):
         else:
             btn.insert(0, 
                 [
+                    InlineKeyboardButton(f'Info 📮', 'reqinfo'),
                     InlineKeyboardButton(f'Movie 🎬', 'minfo'),
                     InlineKeyboardButton(f'Series 🎥', 'sinfo')
                 ]
@@ -1205,6 +1207,7 @@ async def auto_filter(client, msg, spoll=False):
         else:
             btn.insert(0, 
                 [
+                    InlineKeyboardButton(f'Info 📮', 'reqinfo'),
                     InlineKeyboardButton(f'Movie 🎬', 'minfo'),
                     InlineKeyboardButton(f'Series 🎥', 'sinfo')
                 ]
@@ -1226,6 +1229,7 @@ async def auto_filter(client, msg, spoll=False):
         else:
             btn.insert(0, 
                 [
+                    InlineKeyboardButton(f'Info 📮', 'reqinfo'),
                     InlineKeyboardButton(f'Movie 🎬', 'minfo'),
                     InlineKeyboardButton(f'Series 🎥', 'sinfo')
                 ]
